@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ayush Singh Kushwaha
 **A passionate B.tech Student || AIML**
 
-Email Me 👉 ✉️ **akayush08984** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **akayush08984@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** MLH project
 - 🌱 **I’m currently learning:** Python, Data Structures and Algorithms, Machine Learning, and industry-oriented AI application development.
