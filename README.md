@@ -1,4 +1,18 @@
+# 💫 Hi 👋, I'm Ayush Singh Kushwaha
+**A passionate B.tech Student || AIML**
 
+Email Me 👉 ✉️ **akayush08984** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** MLH project
+- 🌱 **I’m currently learning:** Python, Data Structures and Algorithms, Machine Learning, and industry-oriented AI application development.
+- 👯 **I’m looking to collaborate on:** Real-world projects with tech companies, AI/ML applications, full-stack development, hackathons, and collaborative engineering teams.
+- 🤔 **I’m looking for help with:** Industry-level software engineering, AI/ML implementation, writing clean and scalable code, DSA, and turning prototypes into production-ready applications.
+- 💬 **Ask me about:** AI-powered project ideas, web development, hackathons, building practical software solutions, and my journey as an AIML engineering student.
+- 📫 **How to reach me:** akayush08994@gmail.com
+- 😄 **Pronouns:** Ayush 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Student. 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bi_ayush_eng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-kushwaha-7483a3395) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akayush08984@gmail.com) 
 
