@@ -30,6 +30,3 @@ Email Me 👉 ✉️ **akayush08984** For Collaboration/Project or Anything Else
 
 
 ---
-[![](https://komarev.com/ghpvc/?username= ansajkhare-ops&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
